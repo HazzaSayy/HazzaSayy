@@ -1,4 +1,5 @@
-## Hallo Dunia...  
+<!-- HALAMAN UTAMA -->
+## Hallloooo...  
 <h3 align="center"> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Frontend%20Developer;Fokus%20ngoding%20aja,%20nggak%20perlu%20drama&center=true&width=700&height=45&color=3498db&vCenter=true&pause=1000&size=25" />
 </h3> 
@@ -11,31 +12,26 @@
   <a href="https://github.com/HazzaSayy">
     <img src="https://img.shields.io/badge/hazzasayy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-     
-  
 </div>
 <hr>
 
-<!-- ## L & T: -->
+<!-- SKILLS -->
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Skills%3A" alt="Typing SVG"/></a>
-
    <table>
    <tr>
      <td>
        <div align="center">
-         
  <a href="https://github.com/HazzaSayy"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,postman,git,flask,mysql,firebase,python,js,cpp,express,opencv,prisma,tensorflow,c,cs,sequelize,bootstrap,html,css,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> 
        </div>
 </td>
    </tr>
-     
    </table>
-   </div>
-   <hr>
+  </div>
+<hr>
 
- <!-- ## Statistik: -->
- <div align="center">
+<!-- STATISTIK -->
+<div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Statistik%3A" alt="Typing SVG"/></a>
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HazzaSayy&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515">
