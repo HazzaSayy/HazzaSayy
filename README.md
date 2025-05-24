@@ -42,9 +42,6 @@
   <a href="https://github.com/HazzaSayy">      
     <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HazzaSayy&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
   </a>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HazzaSayy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="200px" src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs/?username=HazzaSayy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
-  
 </p> 
 
