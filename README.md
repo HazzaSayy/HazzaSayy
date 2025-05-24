@@ -36,56 +36,15 @@
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Pengikut+Teratas%3A" alt="Typing SVG"/></a>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/saostartar">
-        <img src="https://avatars.githubusercontent.com/u/91102691?v=4" width="75px" alt="saostartar" />
-        <br />
-        <sub>saostartar</sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/salsabilafnp">
-        <img src="https://avatars.githubusercontent.com/u/74697421?v=4" width="75px" alt="salsabilafnp" />
-        <br />
-        <sub>salsabilafnp</sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/AnisyaRengkuan">
-        <img src="https://avatars.githubusercontent.com/u/124641832?v=4" width="75px" alt="AnisyaRengkuan" />
-        <br />
-        <sub>AnisyaRengkuan</sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/Isshoo">
-        <img src="https://avatars.githubusercontent.com/u/132760985?v=4" width="75px" alt="Isshoo" />
-        <br />
-        <sub>Isshoo</sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/Vicken2100">
-        <img src="https://avatars.githubusercontent.com/u/124517924?v=4" width="75px" alt="Vicken2100" />
-        <br />
-        <sub>Vicken2100</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
  ## Statistik:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HazzaSayy&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515">
   <a href="https://github.com/HazzaSayy">      
     <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HazzaSayy&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
   </a>
-<!--    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HazzaSayy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HazzaSayy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="200px" src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs/?username=HazzaSayy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
-<!--    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
   
 </p> 
 
