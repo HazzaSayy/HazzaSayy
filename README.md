@@ -5,17 +5,11 @@
 <h3 align="center">Hallooo, Saya <a href="https://github.com/Uriadutu">Uria Dutu</a></h3>  
 <h5 align="center">&darr;&darr;Jangan lupa follow&darr;&darr;</h5>
  <div align="center"> 
-  <a href="https://www.instagram.com/uriiaaaa?igsh=MXBsM2xwNnQzd25oZw==">
-    <img src="https://img.shields.io/badge/hazzasayy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.tiktok.com/@uriadutu_">
+  <a href="https://www.tiktok.com/@xmspdc">
     <img src="https://img.shields.io/badge/404 | NotFound-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://github.com/HazzaSayy">
     <img src="https://img.shields.io/badge/hazzasayy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:hazzasayy@gmail.com">
-    <img src="https://img.shields.io/badge/hazza&nbsp;sayy-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
      
   
