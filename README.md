@@ -33,8 +33,6 @@
    </table>
    </div>
    <hr>
-<div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Pengikut+Teratas%3A" alt="Typing SVG"/></a>
 
  ## Statistik:
 <p align="center">
