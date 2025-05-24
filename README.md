@@ -22,7 +22,7 @@
    <tr>
      <td>
        <div align="center">
- <a href="https://github.com/HazzaSayy"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,git,mysql,python,js,c,cs,bootstrap,html,css,nextjs,arduino,nodejs,react,php,tailwind,laravel,typescript,blender"> </a> 
+ <a href="https://github.com/HazzaSayy"><img src="https://skillicons.dev/icons?i=vscode,github,unity,blender,figma,vercel,git,mysql,python,js,c,cs,bootstrap,html,css,nextjs,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> 
        </div>
 </td>
    </tr>
