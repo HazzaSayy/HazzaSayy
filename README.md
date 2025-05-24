@@ -11,13 +11,10 @@
   <a href="https://www.tiktok.com/@uriadutu_">
     <img src="https://img.shields.io/badge/404 | NotFound-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100084841355759"> 
-    <img src="https://img.shields.io/badge/Uria&nbsp;Dutu-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://github.com/Uriadutu">
+  <a href="https://github.com/HazzaSayy">
     <img src="https://img.shields.io/badge/Uriadutu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:balisoan03@example.com">
+  <a href="mailto:hazzasayy@gmail.com">
     <img src="https://img.shields.io/badge/Uria&nbsp;Dutu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
      
