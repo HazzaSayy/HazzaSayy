@@ -34,7 +34,9 @@
    </div>
    <hr>
 
- ## Statistik:
+ <!-- ## Statistik: -->
+ <div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Statistik%3A" alt="Typing SVG"/></a>
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HazzaSayy&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515">
   <a href="https://github.com/HazzaSayy">      
